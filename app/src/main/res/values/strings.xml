@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_home">Надпись</string>
+    <string name="app_name">BetaMuseumGuide</string>
+    <string name="title_news">Новости</string>
+    <string name="title_museums">Музеи</string>
+    <string name="title_map">Карта музеев</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
